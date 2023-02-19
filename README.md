@@ -17,7 +17,7 @@ The **auditor** folder contains all of the functions I created for the project. 
 
 The three **KITH** files hold all of the flight data for the years referenced in the folder titles and are what I used to analyze the flight school's adherence to regulations. 
 
-### Conclusion
+### Conclusions
 
 1. The weather in Ithaca, New York, is not very conducive to learning how to fly.
 2. This flight school has some serious issues with adherence to safety regulations and seems to get worse with each year.
