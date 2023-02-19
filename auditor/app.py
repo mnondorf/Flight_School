@@ -70,7 +70,7 @@ def discover_violations(directory,output):
         utils.write_csv(violations_list, output)
     
 
-def execute(args):
+def execute(*args):
     """
     Executes the application or prints an error message if executed incorrectly.
     
