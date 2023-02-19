@@ -20,4 +20,4 @@ The three **KITH** files hold all of the flight data for the years referenced in
 ### Conclusions
 
 1. The weather in Ithaca, New York, is not very conducive to learning how to fly.
-2. This flight school has some serious issues with adherence to safety regulations and seems to get worse with each year, with 93 violations in 2017, 169 violations in 2018, and 223 violations in 2018. 
+2. This flight school has some serious issues with adherence to safety regulations and seems to get worse with each year, with 93 violations in 2017, 169 violations in 2018, and 223 violations in 2019.
